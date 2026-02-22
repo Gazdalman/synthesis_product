@@ -5,7 +5,7 @@ tags:
 type: Video
 ---
 > [!cite] Source 4: The Design in Narrative Design
-> **Citation:** Horneman, J. *GDC Archive*. [Link](https://www.youtube.com/watch?v=f8VIlfTtypg)
+> **Citation:** Horneman, J. *The Design in Narrative Design*. [Link](https://www.youtube.com/watch?v=f8VIlfTtypg)
 > **Category:** `#systems` `#agency`
 > 
 > * **What it covers:** Horneman argues that narrative design is a *system* akin to combat or economy design. He details how quest structures, tracking variables, and game logic are just as important to the story as the actual dialogue written by the writers.

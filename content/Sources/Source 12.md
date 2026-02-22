@@ -5,7 +5,7 @@ tags:
 type: Video
 ---
 > [!cite] Source 12: Narrative Sorcery: Coherent Storytelling in an Open World 
-> **Citation:** Ingold, J. (2016). *GDC Vault*. [Link](https://www.youtube.com/watch?v=HZft_U4Fc-U) 
+> **Citation:** Ingold, J. (2016). *Narrative Sorcery: Coherent Storytelling in an Open World*. [Link](https://www.youtube.com/watch?v=HZft_U4Fc-U) 
 > **Category:** `#ux` `#narrative`
 > 
 > * **What it covers:** Jon Ingold (Inkle Studios) details the "Defensive Logic" used in *Sorcery!*. He explains how they code fallback options (like "Ready myself") to ensure that no matter what weird state the player is in, the narrative never breaks or halts. 

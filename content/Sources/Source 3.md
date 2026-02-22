@@ -5,7 +5,7 @@ tags:
 type: Video
 ---
 > [!cite] Source 3: Choice Architecture in Fallout: New Vegas
-> **Citation:** Sawyer, J. (2012). *GDC Vault*. [Link](https://www.gdcvault.com/play/1015758/Do-(Say)-The-Right-Thing)
+> **Citation:** Sawyer, J. (2012). *Do (Say) The Right Thing*. [Link](https://www.gdcvault.com/play/1015758/Do-(Say)-The-Right-Thing)
 > **Category:** `#agency` `#narrative`
 > 
 > * **What it covers:** Josh Sawyer, the game director of *Fallout: New Vegas*, breaks down the "Choice Architecture" used in the game. He explains the reputation system, faction disguises, and how they structured dialogue trees to ensure players felt genuine agency.

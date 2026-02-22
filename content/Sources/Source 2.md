@@ -5,7 +5,7 @@ tags:
 type: Academic Paper
 ---
 > [!cite] Source 2: Dicey Rules: System Design in Baldur's Gate 3
-> **Citation:** Janik, T. (2024). *DiGRA Digital Library*. [Link](https://doi.org/10.26503/dl.v2025i2.2433)
+> **Citation:** Janik, T. (2024). *Dicey Rules. System Design and Automation in the Baldur's Gate Series*. [Link](https://doi.org/10.26503/dl.v2025i2.2433)
 > **Category:** `#systems` `#mechanics`
 > 
 > * **What it covers:** A recent academic analysis of how Larian Studios translated the complex, math-heavy rules of *Dungeons & Dragons* (5th Edition) into a fluid video game experience. It focuses on the automation of dice rolls.
